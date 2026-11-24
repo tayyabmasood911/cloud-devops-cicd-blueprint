@@ -1,7 +1,7 @@
 # :rocket: Cloud Devops Cicd Blueprint
 
 <p align="center">
-  <img src="docs/images/architecture-overview.jpg" alt="System Architecture Blueprint" width="100%" style="border-radius: 8px;" />
+  <img src="docs/images/architecture-white.jpg" alt="System Architecture Blueprint" width="100%" style="border-radius: 8px;" />
 </p>
 
 <div align="center">
